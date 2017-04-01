@@ -68,7 +68,7 @@ The following figures show a graph (left, with blue vertices) and its line graph
 * **Cost associated with the nodes**
     * Consider the following graph with nodes having costs:-
         <img src="img/Graph1.png"/>
-        The above graph is taken from the [sample data](https://github.com/vidhan13j07/Sample-Code#sample input)
+        The above graph is taken from the [sample data](https://github.com/vidhan13j07/Sample-Code#sample-input)
 
         The transformed **Line Graph**:-
         <img src="img/Line graph with node cost.png"/>
@@ -82,7 +82,7 @@ The following figures show a graph (left, with blue vertices) and its line graph
 * **Cost associated with the edges**
     * Consider the following graph with edges having costs:-
         <img src="img/Graph2.png"/>
-        The above graph is taken from the [sample data](https://github.com/vidhan13j07/Sample-Code#sample input)
+        The above graph is taken from the [sample data](https://github.com/vidhan13j07/Sample-Code#sample-input)
 
         The transformed **Line Graph**:-
         <img src="img/Line graph with edge cost.png"/>
