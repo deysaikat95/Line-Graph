@@ -73,7 +73,7 @@ The following figures show a graph (left, with blue vertices) and its line graph
         The transformed **Line Graph**:-
         <img src="img/Line graph with node cost.png"/>
 
-        Each node of the transformed graph is an edge of the original graph.`[1,2]` denotes that there was an edge from **node `1`** to **node `2`**.
+        Each node of the transformed graph is an edge from the original graph. Here `[1,2]` denotes the node in the transformed graph which was an edge from **node `1`** to **node `2`** in the original graph.
 
         Each edge of the transformed graph is a **tuple** of nodes `(n1, n2, n3)` where `n1`, `n2` and `n3` are nodes from the original graph such that there was an edge from `n1 -> n2` and another edge from `n2 -> n3`.
 
