@@ -90,3 +90,5 @@ The following figures show a graph (left, with blue vertices) and its line graph
         <img src="img/Line graph with edge cost.png"/>
 
         Here, the cost associated with an edge in the original graph moves to the corresponding nodes in the transformed Line Graph.
+
+[Here](https://github.com/vidhan13j07/Line-Graph/blob/master/Line-Graph/line.cpp) is the code that converts a graph into its **Line Graph**(This graph is limited to very small graphs with nodes <= 10).
