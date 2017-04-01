@@ -1,0 +1,15 @@
+Node is formed using 1 and 2 of the original graph with cost 8
+Node is formed using 1 and 3 of the original graph with cost 9
+Node is formed using 1 and 4 of the original graph with cost 6
+Node is formed using 2 and 5 of the original graph with cost 7
+Node is formed using 3 and 4 of the original graph with cost 5
+Node is formed using 4 and 5 of the original graph with cost 10
+Edge is formed using 2, 1 and 3 nodes with 1 node acting as junction and the cost associated with this edge is 8
+Edge is formed using 2, 1 and 4 nodes with 1 node acting as junction and the cost associated with this edge is 8
+Edge is formed using 3, 1 and 4 nodes with 1 node acting as junction and the cost associated with this edge is 8
+Edge is formed using 1, 2 and 5 nodes with 2 node acting as junction and the cost associated with this edge is 7
+Edge is formed using 1, 3 and 4 nodes with 3 node acting as junction and the cost associated with this edge is 9
+Edge is formed using 3, 4 and 5 nodes with 4 node acting as junction and the cost associated with this edge is 6
+Edge is formed using 1, 4 and 5 nodes with 4 node acting as junction and the cost associated with this edge is 6
+Edge is formed using 1, 4 and 3 nodes with 4 node acting as junction and the cost associated with this edge is 6
+Edge is formed using 2, 5 and 4 nodes with 5 node acting as junction and the cost associated with this edge is 10
