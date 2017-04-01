@@ -63,6 +63,8 @@ The following figures show a graph (left, with blue vertices) and its line graph
 
 <img src="img/img1.png"/> <img src="img/img2.png"/> <img src="img/img3.png"/> <img src="img/img4.png"/>
 
+[//]: <> (Handling of costs taken from http://stackoverflow.com/questions/43066617/what-happens-to-the-cost-of-the-nodes-when-the-graph-is-converted-to-its-corresp/43137531#43137531)
+
 ## Handling of Costs
 
 * **Cost associated with the nodes**
